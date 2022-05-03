@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Street-Food-Dapp/static/css/main.d87cbb72.chunk.css",
-    "main.js": "/Street-Food-Dapp/static/js/main.eb96a5a2.chunk.js",
-    "main.js.map": "/Street-Food-Dapp/static/js/main.eb96a5a2.chunk.js.map",
+    "main.js": "/Street-Food-Dapp/static/js/main.a7a0af82.chunk.js",
+    "main.js.map": "/Street-Food-Dapp/static/js/main.a7a0af82.chunk.js.map",
     "runtime-main.js": "/Street-Food-Dapp/static/js/runtime-main.ff60132f.js",
     "runtime-main.js.map": "/Street-Food-Dapp/static/js/runtime-main.ff60132f.js.map",
     "static/css/2.2579163c.chunk.css": "/Street-Food-Dapp/static/css/2.2579163c.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.2579163c.chunk.css",
     "static/js/2.d46a91a5.chunk.js",
     "static/css/main.d87cbb72.chunk.css",
-    "static/js/main.eb96a5a2.chunk.js"
+    "static/js/main.a7a0af82.chunk.js"
   ]
 }
