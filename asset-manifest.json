@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Street-Food-Dapp/static/css/main.d87cbb72.chunk.css",
+    "main.js": "/Street-Food-Dapp/static/js/main.57feb3fe.chunk.js",
+    "main.js.map": "/Street-Food-Dapp/static/js/main.57feb3fe.chunk.js.map",
+    "runtime-main.js": "/Street-Food-Dapp/static/js/runtime-main.ff60132f.js",
+    "runtime-main.js.map": "/Street-Food-Dapp/static/js/runtime-main.ff60132f.js.map",
+    "static/css/2.2579163c.chunk.css": "/Street-Food-Dapp/static/css/2.2579163c.chunk.css",
+    "static/js/2.d46a91a5.chunk.js": "/Street-Food-Dapp/static/js/2.d46a91a5.chunk.js",
+    "static/js/2.d46a91a5.chunk.js.map": "/Street-Food-Dapp/static/js/2.d46a91a5.chunk.js.map",
+    "static/js/3.fbf7c495.chunk.js": "/Street-Food-Dapp/static/js/3.fbf7c495.chunk.js",
+    "static/js/3.fbf7c495.chunk.js.map": "/Street-Food-Dapp/static/js/3.fbf7c495.chunk.js.map",
+    "index.html": "/Street-Food-Dapp/index.html",
+    "static/css/2.2579163c.chunk.css.map": "/Street-Food-Dapp/static/css/2.2579163c.chunk.css.map",
+    "static/css/main.d87cbb72.chunk.css.map": "/Street-Food-Dapp/static/css/main.d87cbb72.chunk.css.map",
+    "static/js/2.d46a91a5.chunk.js.LICENSE.txt": "/Street-Food-Dapp/static/js/2.d46a91a5.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/Street-Food-Dapp/static/media/bootstrap-icons.c1d7432e.woff",
+    "static/media/sandwich.2d312449.jpg": "/Street-Food-Dapp/static/media/sandwich.2d312449.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff60132f.js",
+    "static/css/2.2579163c.chunk.css",
+    "static/js/2.d46a91a5.chunk.js",
+    "static/css/main.d87cbb72.chunk.css",
+    "static/js/main.57feb3fe.chunk.js"
+  ]
+}
