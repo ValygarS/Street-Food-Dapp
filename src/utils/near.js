@@ -11,7 +11,7 @@ export async function initializeContract() {
         nearEnv
       )
     );
-    window.walletConnection = new WalletConnection(near);
+    window.walletConnection = new WalletConnection(near, 'marketplace-app');
     window.accountId = window.walletConnection.getAccountId();
     window.contract = new Contract(
       window.walletConnection.account(),

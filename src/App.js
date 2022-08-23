@@ -5,7 +5,7 @@ import Wallet from "./components/Wallet";
 import { Notification } from "./components/utils/Notifications";
 import Products from "./components/marketplace/Products";
 import Cover from "./components/utils/Cover";
-import coverImg from "./assets/img/sandwich.jpg";
+import coverImg from "./assets/img/street_food.jpg";
 import "./App.css";
 
 function App() {
@@ -37,7 +37,7 @@ function App() {
           <main><Products /></main>
         </Container>
       ) : (
-        <Cover name="Street Food" login={login} coverImg={coverImg} />
+        <Cover name="Asian Street Food" login={login} coverImg={coverImg} />
       )}
     </>
   );
